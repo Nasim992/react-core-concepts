@@ -1,6 +1,16 @@
+## Check Every time for creating new project give the following command 
+   ### `npx create-react-app appName`
+   ### `cd appName`
+   ### `npm start`
+   ### `npm install react-scripts@3.4.3` it is for solving the load issues when it is showing the following error 'unhandled error'
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 
