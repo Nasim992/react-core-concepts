@@ -119,3 +119,5 @@ nayka = "Sumaya Akter Sumi "></Person>
 >
   Learn React
 </a> */}
+
+Diffing : React follows the observable pattern and listens for state changes. When the state of a component changes, React updates the virtual DOM tree. Once the virtual DOM has been updated, React then compares the current version of the virtual DOM with the previous version of the virtual DOM. This process is called “diffing”
