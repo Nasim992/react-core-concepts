@@ -8,21 +8,21 @@
    
 
    ## To Add react-Bootstrap run the following command inside the project folder 
-   ## `npm install react-bootstrap bootstrap`
-   ## After that add the 'bootstrap.min.css' file inside your folder anywhere or add the cdn link into your html file.
-   ## `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"/>`
+   ### `npm install react-bootstrap bootstrap`
+   After that add the 'bootstrap.min.css' file inside your folder anywhere or add the cdn link into your html file.
+   ### `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"/>`
 
-  ## For using FontAwesome use the following command 
-  ##  npm i --save @fortawesome/fontawesome-svg-core
-  ## npm install --save @fortawesome/free-solid-svg-icons
-  ## npm install --save @fortawesome/react-fontawesome
+   For using FontAwesome use the following command 
+  ###  `npm i --save @fortawesome/fontawesome-svg-core`
+  ### `npm install --save @fortawesome/free-solid-svg-icons`
+  ### `npm install --save @fortawesome/react-fontawesome`
 
 
-   ## And then import the following for using fontawesome 
-   ## import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-   ## import { faCoffee } from '@fortawesome/free-solid-svg-icons' 
+    And then import the following for using fontawesome 
+   ### `import { FontAwesomeIcon } from '@fortawesome/react-fontawesome`
+   ### `import { faCoffee } from '@fortawesome/free-solid-svg-icons`
 
-   ## After that use --> `<FontAwesomeIcon icon={faCoffee} />` for getting the icon.
+   ### After that use --> `<FontAwesomeIcon icon={faCoffee} />` for getting the icon.
 
 
 
