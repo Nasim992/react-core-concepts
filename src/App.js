@@ -27,7 +27,9 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p style ={style}>Hellow It's working Perfectly yes  {person.name +" "+ person.email}  </p>
-        <Person></Person> 
+        <Person></Person>
+        <Person></Person>
+        <Person></Person>
         <Person></Person>
         <a
           className="App-link"
