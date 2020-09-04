@@ -7,8 +7,15 @@
    ### `npm install react-scripts@3.4.3` 
    
 
+   For adding Bootstrap using create-react-app
+ ### `npm install --save bootstrap`
+ ### then add the `import 'bootstrap/dist/css/bootstrap.css';` `into src/index.js` file.
+                           
+                           Or, 
+
    ## To Add react-Bootstrap run the following command inside the project folder 
    ### `npm install react-bootstrap bootstrap`
+
    After that add the 'bootstrap.min.css' file inside your folder anywhere or add the cdn link into your html file.
    ### `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"/>`
 
