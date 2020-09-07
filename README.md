@@ -44,7 +44,10 @@
 
 
   **To sent the request using axios give the following command for install axios**
-  ### `npm install axios`  
+  ### `npm install axios` 
+
+  **For react routing go to the following link -->https://reactrouter.com/web/guides/quick-start** 
+  ### `npm install react-router-dom` 
 
 
 ## Available Scripts
