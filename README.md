@@ -1,13 +1,13 @@
-## Check Every time for creating new project give the following command 
+  **Check Every time for creating new project give the following command**
    ### `npx create-react-app appName`
    ### `cd appName`
    ### `npm start`
 
-   ## For  solving the load issues when it is showing the following error 'unhandled error'
+   **For  solving the load issues when it is showing the following error 'unhandled error'**
    ### `npm install react-scripts@3.4.3` 
    
 
-   For adding Bootstrap using create-react-app
+   **For adding Bootstrap using create-react-app**
  ### `npm install --save bootstrap`
  ### then add the `import 'bootstrap/dist/css/bootstrap.css';` `into src/index.js` file.
                            
@@ -16,29 +16,29 @@
    ## To Add react-Bootstrap run the following command inside the project folder 
    ### `npm install react-bootstrap bootstrap`
 
-   After that add the 'bootstrap.min.css' file inside your folder anywhere or add the cdn link into your html file.
+   **After that add the 'bootstrap.min.css' file inside your folder anywhere or add the cdn link into your html file.**
    ### `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"/>`
 
        or,
   ## you can use material UI which functionality is as same as bootstrap  
   ### `npm install @material-ui/core` 
-                or add the cdn link on the html file for material UI  
+                *or add the cdn link on the html file for material UI*  
   ### `<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />`
           
 
-   For using FontAwesome use the following command 
+   **For using FontAwesome use the following command** 
   ###  `npm i --save @fortawesome/fontawesome-svg-core`
   ### `npm install --save @fortawesome/free-solid-svg-icons`
   ### `npm install --save @fortawesome/react-fontawesome`
 
 
-    And then import the following for using fontawesome 
+  **And then import the following for using fontawesome** 
    ### `import { FontAwesomeIcon } from '@fortawesome/react-fontawesome`
    ### `import { faCoffee } from '@fortawesome/free-solid-svg-icons`
 
-   ### After that use --> `<FontAwesomeIcon icon={faCoffee} />` for getting the icon.
+   **After that use --> `<FontAwesomeIcon icon={faCoffee} />` for getting the icon.**
 
-   ## For using the charts use Recharts link : 
+   **For using the charts use Recharts link :** 
    https://recharts.org/en-US/guide/installation
    ### `npm install recharts`
 
