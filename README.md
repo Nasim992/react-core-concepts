@@ -43,6 +43,9 @@
    ### `npm install recharts`
 
 
+  **To sent the request using axios give the following command for install axios**
+  ### `npm install axios`  
+
 
 ## Available Scripts
 
