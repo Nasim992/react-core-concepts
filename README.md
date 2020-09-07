@@ -38,6 +38,8 @@
 
    ### After that use --> `<FontAwesomeIcon icon={faCoffee} />` for getting the icon.
 
+   ## For using the charts use Recharts link : `https://recharts.org/en-US/guide/installation`
+   ### `npm install recharts`
 
 
 
