@@ -22,6 +22,7 @@
        or,
   ## you can use material UI which functionality is as same as bootstrap  
   ### `npm install @material-ui/core` 
+  ### `npm install @material-ui/icons` if icon error occur 
                 *or add the cdn link on the html file for material UI*  
   ### `<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />`
           
